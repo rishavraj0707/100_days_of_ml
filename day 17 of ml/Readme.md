@@ -1,5 +1,6 @@
 # 🎬 TMDB Top Rated Movies Dataset using Python API
 
+## google colab code link - https://colab.research.google.com/drive/1zRR9e2fCbYw3SQpFznvnSgCUWhB9KSQ7?usp=sharing
 ## 📌 Project Overview
 
 This project demonstrates how to collect **Top Rated Movies** data from **The Movie Database (TMDB) API** using Python. The data is extracted from multiple API pages, converted into a Pandas DataFrame, and finally saved as a CSV dataset.
