@@ -1,7 +1,6 @@
 ### google colab code file - 
-```
 https://colab.research.google.com/drive/1vsp3knyglbnS5-IlxhBZdflS2ANbNJbL?usp=sharing
-```
+
 
 # Understanding the Data
 
