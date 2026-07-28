@@ -1,3 +1,8 @@
+### google colab code file - 
+```
+https://colab.research.google.com/drive/1vsp3knyglbnS5-IlxhBZdflS2ANbNJbL?usp=sharing
+```
+
 # Understanding the Data
 
 Before performing any analysis, it's important to understand the dataset. Below are some common questions and the corresponding Pandas functions used to answer them.
