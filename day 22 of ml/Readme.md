@@ -1,5 +1,8 @@
 # Automated Exploratory Data Analysis (EDA) with YData Profiling
 
+### Google colab code file - https://colab.research.google.com/drive/1rwVcYzDcwXI0aoWmdNPwry10fXy_Eu4A?usp=sharing
+---
+
 ## Overview
 
 This project demonstrates how to generate an **automated Exploratory Data Analysis (EDA) report** using the **YData Profiling** library. Instead of manually checking each column, the library creates a comprehensive HTML report containing statistics, distributions, missing values, correlations, and data quality insights.
