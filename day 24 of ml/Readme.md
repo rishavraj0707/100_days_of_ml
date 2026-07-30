@@ -1,5 +1,6 @@
 # Feature Scaling
 
+### Google colab code file:  https://colab.research.google.com/drive/1VBx_Nt_xdvUWZZ9fNI1O9DnPKMrGi8ty?usp=sharing
 ## What is Feature Scaling?
 
 Feature scaling is the process of transforming numerical features so they are on a similar scale without changing their underlying relationships. It helps machine learning algorithms learn more efficiently.
