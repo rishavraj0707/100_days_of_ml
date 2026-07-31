@@ -2,6 +2,7 @@
 
 One-Hot Encoding converts categorical values into numerical columns containing **0** and **1**.
 
+### Google colab code file: https://colab.research.google.com/drive/1bFkUUi8FUFKWfkL0b2ysheJDiEXUnxNV?usp=sharing
 ## Example
 
 Original data:
