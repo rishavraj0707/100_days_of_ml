@@ -3,6 +3,7 @@ Feature engineering is the process of creating, transforming, selecting, and ext
 
 ## Types of Feature Engineering
 
+```text
 Feature Engineering
 │
 ├── 1. Feature Transformation
@@ -13,6 +14,7 @@ Feature Engineering
 ├── 2. Feature Construction
 ├── 3. Feature Selection
 └── 4. Feature Extraction
+```
 
 ## 1. Feature Transformation
 
