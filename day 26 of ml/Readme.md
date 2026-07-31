@@ -2,6 +2,7 @@
 
 Categorical data contains values that represent categories instead of numbers.
 
+### Google colab code file: https://colab.research.google.com/drive/1_7YLK3l_OiRA058hkHqmJxyXEl6Y0d9a?usp=sharing
 ## Types of Data
 
 ```text
