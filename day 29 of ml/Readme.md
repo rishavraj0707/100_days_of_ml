@@ -1,7 +1,7 @@
 # Scikit-learn Pipeline
 
 ### Google colab code file 
-part 1 a: https://colab.research.google.com/drive/1jJrNvi2jR5qb3hYmKi2m9sFlE67sTImS?usp=sharing
+part 1 a: https://colab.research.google.com/drive/1jJrNvi2jR5qb3hYmKi2m9sFlE67sTImS?usp=sharing  
 part 1 b: https://colab.research.google.com/drive/1SPDxGlywZuiHprNrIRj7s0dfL2HBRE0N?usp=sharing
 
 ## Overview
