@@ -3,6 +3,8 @@
 Power transformations are statistical techniques used to make data more normally distributed, reduce skewness, and stabilize variance. Two of the most commonly used power transformations are the **Box-Cox Transformation** and the **Yeo-Johnson Transformation**.
 
 ---
+### google colab code file : https://colab.research.google.com/drive/1bMNMwwCHBIY44ZQ7PX5x6kB03kFN4c6r?usp=sharing  
+---
 
 # 1. Box-Cox Transformation
 
