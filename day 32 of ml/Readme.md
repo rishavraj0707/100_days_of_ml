@@ -6,6 +6,8 @@ Numerical features can be transformed into a more useful representation using **
 2. **Binarization**
 
 ---
+## Google Colab code file - https://colab.research.google.com/drive/1yGjLYyA7ChdLoyAx7woob--_EcMRp103?usp=sharing
+---
 
 # 1. Discretization (Binning)
 
