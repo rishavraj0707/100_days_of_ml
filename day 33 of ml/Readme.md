@@ -11,6 +11,9 @@
 In Machine Learning and Data Science, datasets commonly contain a combination of these data types. Before using such data for analysis or model training, we need to identify and preprocess each type correctly.
 
 ---
+## Google Colab code file - https://colab.research.google.com/drive/1y9tddyzU7dUQaOnsHouoqguxCh-UXH6A?usp=sharing
+---
+
 
 ## Example 1: Mixed Data in a Single Column
 
