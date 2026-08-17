@@ -1,4 +1,10 @@
-   # Missing Data Imputation Techniques
+## Google colab code file: 
+day_38_of_ml_random_sample_imputation : https://colab.research.google.com/drive/1_rj1Xx1yiKJ1qFppBZvm2WLEhSXkpFhd?usp=sharing  
+day_38_of_ml_missing_indicator : https://colab.research.google.com/drive/1OAtX6c1a7RzGgVGj4eJNwpu0-n6KapPo?usp=sharing  
+day_38_of_ml_automatically_select_imputer_parameters : https://colab.research.google.com/drive/1yqTyJJJi-t1WN_0XCtul92tV4o0IKX_M?usp=sharing  
+
+
+# Missing Data Imputation Techniques
 
 This README explains three useful approaches for handling missing values in machine learning datasets:
 
