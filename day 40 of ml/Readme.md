@@ -1,3 +1,7 @@
+## Google Colab code file: 
+https://colab.research.google.com/drive/1MJGxOj8gHub7HcRfq7QLUS4KDUPPCtSO?usp=sharing  
+
+
 # Iterative Imputer (MICE)
 
 A simple explanation of how **Iterative Imputer / MICE (Multiple Imputation by Chained Equations)** works.
