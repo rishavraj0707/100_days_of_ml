@@ -1,3 +1,7 @@
+## Google Colab code file:
+https://colab.research.google.com/drive/1nKYyNX6LIer1Kl0EgwxxOVXuIo2xP8zF?usp=sharing
+
+
 # Outlier Detection Using IQR
 
 ![Outlier detection using IQR](image.png)
