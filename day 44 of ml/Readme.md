@@ -1,3 +1,7 @@
+## Google Colab code file : 
+https://colab.research.google.com/drive/1v9D-B-lmY1oKgQ85D2TpVAiIIWVgb8a2?usp=sharing  
+
+
 # Outlier Detection Using the Percentile Method
 
 ## What is a Percentile?
