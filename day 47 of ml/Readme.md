@@ -1,3 +1,7 @@
+## google colab code file:  
+day_47_of_ml_step_by_step_sol.ipynb: https://colab.research.google.com/drive/19N69NFngnU6DC8_gqxCBqewaegfE9FAC?usp=sharing  
+
+day_47_of_ml_PCA_MNIST_dataset.ipynb: https://colab.research.google.com/drive/1a_HVP5TzLdtY5y6-dncQT3QJh5lr0Lsa?usp=sharing  
 
 
 
