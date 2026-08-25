@@ -1,3 +1,8 @@
+## Google colab code file:
+day_48_of_ml_linear_regression_1.ipynb : https://colab.research.google.com/drive/1Q6uK4hfWcF47ic_GJCmpPzz_anW_ybPy?usp=sharing  
+day_48_of_ml_linear_regression_2.ipynb : https://colab.research.google.com/drive/1yBOkFBJ8TM9xGgtrZt2_I6zL83jJGKEv?usp=sharing  
+
+
 # Linear Regression
 
 Linear Regression is a **Supervised Machine Learning Algorithm** that is used to predict a continuous numerical output based on one or more input features.
