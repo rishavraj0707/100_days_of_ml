@@ -1,3 +1,7 @@
+## Google colab code file:
+https://colab.research.google.com/drive/1fbpMsxABMjBQgP1wrj1M3l_bdl08z_W0?usp=sharing  
+
+
 # Multiple Linear Regression
 
 Multiple Linear Regression is a supervised machine learning algorithm used to predict a **continuous dependent variable** using **two or more independent variables**.
